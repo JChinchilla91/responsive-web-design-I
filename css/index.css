@@ -275,6 +275,11 @@ footer {
 		margin-right: 0;
 	}
 
+	.last-a {
+		padding-bottom: 30px;
+		border-bottom: 1px solid black;
+	}
+
 	.cta {
 		/* border: 2px solid black; */
 		width: 100%;
